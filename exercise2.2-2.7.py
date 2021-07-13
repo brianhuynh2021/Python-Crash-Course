@@ -1,0 +1,10 @@
+my_name = 'brian Huynh '
+my_name1 = my_name.title()
+my_name2 = my_name.lower()
+my_name3 = my_name.upper()
+my_name4 = my_name.strip()
+print('Hello {}, would you like to learn some Python today?'.format(my_name))
+print(my_name1)
+print(my_name2)
+print(my_name3)
+print(my_name4)
